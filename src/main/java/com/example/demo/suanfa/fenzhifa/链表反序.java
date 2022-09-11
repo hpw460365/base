@@ -1,4 +1,4 @@
-package com.example.demo.suanfa;
+package com.example.demo.suanfa.fenzhifa;
 
 public class 链表反序 {
 
